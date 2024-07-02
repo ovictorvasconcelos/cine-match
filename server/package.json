@@ -15,7 +15,9 @@
   "license": "MIT",
   "description": "film recommendation application developed with Node and React.",
   "devDependencies": {
+    "@types/node": "^20.14.9",
     "eslint": "^9.6.0",
-    "globals": "^15.7.0"
+    "globals": "^15.7.0",
+    "typescript": "^5.5.3"
   }
 }
