@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "build": "tsc -p tsconfig.json",
-    "start": "npx tsx src/app.ts",
+    "start": "npx tsx ./src/index.ts",
+    "dev": "npx tsx watch ./src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
