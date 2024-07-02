@@ -13,6 +13,8 @@ pids
 
 build/Release
 
+dist/
+./dist
 node_modules/
 jspm_packages/
 
